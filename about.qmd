@@ -1,5 +1,5 @@
 ---
-title: "Thomas Rose"
+title: "Moritz T. Zoellner"
 about:
   id: template-area
   template: jolla
@@ -23,20 +23,20 @@ about:
 
 :::{#template-area}
 
-Here goes the information to be included in the template. 
+PhD student at Bundesanstalt für Materialforschung - und prüfung (BAM) Berlin.
 
 :::
 
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Am Satz 8  
-60437 Frankfurt  
+Moritz Zoellner  
+Selchowstr. 24  
+12489 Berlin  
 Germany  
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Phone +49 17671913151 
+E-Mail: moritz.zoellner [at] bam.de
 
 ## Privacy
 
