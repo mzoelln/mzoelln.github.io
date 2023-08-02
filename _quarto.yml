@@ -5,7 +5,7 @@ website:
   site-url: https://mzoelln.github.io/
   repo-url: https://github.com/mzoelln/mzoelln.github.io/
   favicon: favicon.png
-  title: "Moritz Zoellner"
+  title: "Moritz T. Zoellner"
   navbar:
     left:
       - text: "My research"
