@@ -13,11 +13,6 @@ about:
       href: https://github.com
 ---
 
-## Tasks for this page
-
-* Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
-
-
 :::{#template-area}
 
 PhD student at Bundesanstalt für Materialforschung - und prüfung (BAM) Berlin.
@@ -28,7 +23,7 @@ PhD student at Bundesanstalt für Materialforschung - und prüfung (BAM) Berlin.
 
 Provider according to § 5 TMG is:  
 Moritz Zoellner  
-Richard-Willstätter-Str.  
+Richard-Willstätter-Straße 11 
 12489 Berlin  
 Germany  
 
