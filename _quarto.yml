@@ -2,10 +2,10 @@ project:
   type: website
     
 website:
-  site-url: https://archaeothommy.github.io/
-  repo-url: https://github.com/archaeothommy/archaeothommy.github.io/
+  site-url: https://mzoelln.github.io/
+  repo-url: https://github.com/mzoelln/mzoelln.github.io/
   favicon: favicon.png
-  title: "Thomas Rose"
+  title: "Moritz Zoellner"
   navbar:
     left:
       - text: "My research"
